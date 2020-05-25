@@ -1,0 +1,3 @@
+What is polymorphism?
+	- Polymorphism means many forms.
+	- A single object can refer to the super-class or sub-class depending on the reference type which is called polymorphism.
